@@ -1,0 +1,16 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+		<h1 id="heading">This is a Heading Tag h1</h1>
+		<p><b>This is a <i>paragraph.</i></b></P>
+		
+		<h2>This is a Heading Tag h2</h2>
+		<p>This is our 2nd Paragraph.</P>
+		
+		<h6>This is our Heading Tag h6</h6>
+		<p>This is our 3rd Paragraph.</p>
+	</body>
+</html>
